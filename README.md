@@ -74,6 +74,7 @@ Thanks!
 - [guptarohit](https://github.com/guptarohit)
 - [fifiteen82726](https://github.com/fifiteen82726)
 - [alexspyr](https://github.com/alexspyr)
+- [GarretValley](https://github.com/GarrettValley)
 - [paulolimac](https://github.com/paulolimac)
 - [CodeWarri0r](https://github.com/CodeWarri0r)
 - [earlpast](https://github.com/earlpast)
